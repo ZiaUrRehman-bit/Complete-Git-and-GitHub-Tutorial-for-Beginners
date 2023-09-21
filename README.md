@@ -42,6 +42,7 @@ $ git config --global user.email "youremail@example.com"
   <li><strong>git commit</strong>: Commit changes to the repository.</li>
   <li><strong>git pull</strong>: Fetch and merge changes from a remote repository.</li>
   <li><strong>git push</strong>: Push changes to a remote repository on GitHub.</li>
+  <li><strong>git status</strong>: Shows the status of file.</li>
 </ul>
 <h2>Learn More</h2>
 <p>For a comprehensive guide on Git and GitHub, please check out our detailed tutorial in the <a href="https://github.com/ZiaUrRehman-bit/Complete-Git-and-GitHub-Tutorial-for-Beginners/blob/main/git-cheat-sheet-education.pdf">Git Cheat Sheet</a> file in this repository.</p>
