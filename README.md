@@ -18,7 +18,7 @@ Git is mainly used for two things.<br>
 `Website` that allows programmers to store and manage their code using Git.<br>
 https://github.com
 
-#`Setting Up Git on Windows`
+# `Setting Up Git on Windows`
 
 <p>Follow these steps to set up Git on your Windows machine:</p>
 
