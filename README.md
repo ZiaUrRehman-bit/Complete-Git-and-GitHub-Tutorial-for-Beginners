@@ -1,4 +1,4 @@
-# Complete-Git-and-GitHub-Tutorial-for-Beginners
+# Complete Git and GitHub Tutorial for Beginners
 We will learn about Git and GitHub in detail from scratch. 
 
 # `Git`  <img src="https://github.com/ZiaUrRehman-bit/Complete-Git-and-GitHub-Tutorial-for-Beginners/assets/77435711/bac25d1f-6152-42dd-97c3-a735c013ff8e" alt="Image" width="30"/>
@@ -18,7 +18,7 @@ Git is mainly used for two things.<br>
 `Website` that allows programmers to store and manage their code using Git.<br>
 https://github.com
 
-<h2>Setting Up Git on Windows</h2>
+<h2>`Setting Up Git on Windows`</h2>
 
 <p>Follow these steps to set up Git on your Windows machine:</p>
 
