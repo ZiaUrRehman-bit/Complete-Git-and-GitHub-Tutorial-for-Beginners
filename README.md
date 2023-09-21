@@ -18,26 +18,6 @@ Git is mainly used for two things.<br>
 `Website` that allows programmers to store and manage their code using Git.<br>
 https://github.com
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    h1 {
-      color: #0366d6;
-    }
-    h2 {
-      color: #333;
-    }
-    p {
-      font-weight: 400;
-    }
-    code {
-      background-color: #f8f8f8;
-      font-family: Monaco, monospace;
-    }
-  </style>
-</head>
-<body>
 
 <h1>Complete Git and GitHub Tutorial for Beginners</h1>
 
