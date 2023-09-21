@@ -45,8 +45,6 @@ $ git config --global user.email "youremail@example.com"
 </ul>
 <h2>Learn More</h2>
 <p>For a comprehensive guide on Git and GitHub, please check out our detailed tutorial in the <a href="https://github.com/ZiaUrRehman-bit/Complete-Git-and-GitHub-Tutorial-for-Beginners/blob/main/git-cheat-sheet-education.pdf">Git Cheat Sheet</a> file in this repository.</p>
-<h2>Contributing</h2>
-<p>Contributions are welcome! If you have suggestions, bug reports, or want to improve this tutorial, please create an issue or submit a pull request.</p>
 
 ## Steps of method 01 to Publish to GitHub
 
@@ -93,3 +91,11 @@ If you haven't already installed Git on your computer, download and install it f
   ```bash
    $ git commit -m "Your commit message here"
    ```
+### Step 7: Push Your Code to GitHub
+Push your local code to GitHub by running the following command:
+
+  ```bash
+   $ git push origin main
+   ```
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you have suggestions, bug reports, or want to improve this tutorial, please create an issue or submit a pull request.</p>
