@@ -48,20 +48,6 @@ $ git config --global user.email "youremail@example.com"
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have suggestions, bug reports, or want to improve this tutorial, please create an issue or submit a pull request.</p>
 
-- [Steps of method 01 to Publish to GitHub](#steps-to-publish-to-github)
-  - [Step 1: Create a GitHub Repository](#step-1-create-a-github-repository)
-  - [Step 2: Method 02 Install Git](#step-2-install-git)
-  - [Step 3: Open Your Project in Visual Studio Code](#step-3-open-your-project-in-visual-studio-code)
-  - [Step 4: Initialize a Git Repository](#step-4-initialize-a-git-repository)
-  - [Step 5: Add and Commit Your Code](#step-5-add-and-commit-your-code)
-  - [Step 6: Connect Your Local Repository to GitHub](#step-6-connect-your-local-repository-to-github)
-  - [Step 7: Push Your Code to GitHub](#step-7-push-your-code-to-github)
-  - [Step 8: Authenticate with GitHub](#step-8-authenticate-with-github)
-  - [Step 9: Verify on GitHub](#step-9-verify-on-github)
-- [Additional Information](#additional-information)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Steps of method 01 to Publish to GitHub
 
 ### Step 1: Create a GitHub Repository
@@ -90,4 +76,17 @@ If you haven't already installed Git on your computer, download and install it f
 
    ```bash
    git init
+   ```
+### Step 5: Add and Commit Your Code
+
+- In Visual Studio Code, make changes to your project files as needed.
+- Use the integrated terminal to add your changes to the staging area. Replace <file(s)> with the file(s) you want to stage or use '.' to stage all changes:
+  
+   ```bash
+   git add fileName
+   ```
+   for all files
+  ```bash
+   git add .
+   ```
 
