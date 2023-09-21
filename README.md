@@ -44,6 +44,6 @@ $ git config --global user.email "youremail@example.com"
   <li><strong>git push</strong>: Push changes to a remote repository on GitHub.</li>
 </ul>
 <h2>Learn More</h2>
-<p>For a comprehensive guide on Git and GitHub, please check out our detailed tutorial in the <a href="git-cheat-sheet-eductaion.pdf">[git-cheat-sheet-eductaion.pdf](https://github.com/ZiaUrRehman-bit/Complete-Git-and-GitHub-Tutorial-for-Beginners/blob/main/git-cheat-sheet-education.pdf)</a> file in this repository.</p>
+<p>For a comprehensive guide on Git and GitHub, please check out our detailed tutorial in the <a href="https://github.com/ZiaUrRehman-bit/Complete-Git-and-GitHub-Tutorial-for-Beginners/blob/main/git-cheat-sheet-education.pdf">tutorial.md</a> file in this repository.</p>
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have suggestions, bug reports, or want to improve this tutorial, please create an issue or submit a pull request.</p>
