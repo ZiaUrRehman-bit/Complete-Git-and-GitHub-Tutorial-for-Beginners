@@ -31,3 +31,17 @@ https://github.com
 ```bash
 $ git config --global user.name "Your Name"
 $ git config --global user.email "youremail@example.com"
+<h2>Basic Git Commands</h2>
+<p>Here are some essential Git commands:</p>
+<ul>
+  <li><strong>git init</strong>: Initialize a new Git repository.</li>
+  <li><strong>git clone</strong>: Clone a repository from GitHub.</li>
+  <li><strong>git add</strong>: Stage changes for commit.</li>
+  <li><strong>git commit</strong>: Commit changes to the repository.</li>
+  <li><strong>git pull</strong>: Fetch and merge changes from a remote repository.</li>
+  <li><strong>git push</strong>: Push changes to a remote repository on GitHub.</li>
+</ul>
+<h2>Learn More</h2>
+<p>For a comprehensive guide on Git and GitHub, please check out our detailed tutorial in the <a href="tutorial.md">tutorial.md</a> file in this repository.</p>
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you have suggestions, bug reports, or want to improve this tutorial, please create an issue or submit a pull request.</p>
