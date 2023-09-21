@@ -31,6 +31,7 @@ https://github.com
 ```bash
 $ git config --global user.name "Your Name"
 $ git config --global user.email "youremail@example.com"
+```
 
 <h2>Basic Git Commands</h2>
 <p>Here are some essential Git commands:</p>
