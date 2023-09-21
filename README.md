@@ -18,19 +18,6 @@ Git is mainly used for two things.<br>
 `Website` that allows programmers to store and manage their code using Git.<br>
 https://github.com
 
-
-<h1>Complete Git and GitHub Tutorial for Beginners</h1>
-
-<p>Welcome to the "Complete Git and GitHub Tutorial for Beginners" repository! This tutorial will guide you through the fundamentals of Git and GitHub, from the definition of these tools to the complete setup process on a Windows machine.</p>
-
-<h2>What is Git?</h2>
-
-<p>Git is a distributed version control system that allows you to track changes in your code, collaborate with others, and manage your project's history efficiently.</p>
-
-<h2>What is GitHub?</h2>
-
-<p>GitHub is a web-based platform built on top of Git, which provides additional features for hosting and collaborating on Git repositories.</p>
-
 <h2>Setting Up Git on Windows</h2>
 
 <p>Follow these steps to set up Git on your Windows machine:</p>
