@@ -75,7 +75,7 @@ If you haven't already installed Git on your computer, download and install it f
 - Run the following command to initialize a Git repository in your project folder:
 
    ```bash
-   git init
+   $ git init
    ```
 ### Step 5: Add and Commit Your Code
 
@@ -83,10 +83,13 @@ If you haven't already installed Git on your computer, download and install it f
 - Use the integrated terminal to add your changes to the staging area. Replace <file(s)> with the file(s) you want to stage or use '.' to stage all changes:
   
    ```bash
-   git add fileName
+   $ git add fileName
    ```
    for all files
   ```bash
-   git add .
+   $ git add .
    ```
-
+  Commit your changes with a descriptive commit message:
+  ```bash
+   $ git commit -m "Your commit message here"
+   ```
